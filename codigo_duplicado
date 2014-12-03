@@ -1,0 +1,14 @@
+Codigo duplicado
+================
+una funcion que determina la edad de un cliente y de un proveedor.
+si los dos son clases que heredan del tipo persona. Mejor hacer la funcion en la clase persona
+
+Class persona
+{
+....
+public function ObtenerEdad()
+{
+return date('Y') - date('Y', this->ObtenerFDN());
+}
+....
+}
