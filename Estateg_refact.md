@@ -29,4 +29,4 @@ Estrategias de Refactorizacion
 
 14. Comentarios
 
-15.Procedimientos del código
+15. Procedimientos del código
