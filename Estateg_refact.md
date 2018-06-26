@@ -1,7 +1,7 @@
 1.Estrategias de Refactorizacion 
 =================================
 
-(Aquí huele a codigo muerto...pues yo no he sido!)
+(Aquí huele a código muerto...pues yo no he sido!)
 --------------------------------------------------
 
 1.1. Metodo largo
