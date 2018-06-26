@@ -17,7 +17,7 @@ Estrategias de Refactorizacion
 
 8. Obsesión primitiva
 
-9. Sentencia Switch
+9. Sentencias Switch
 
 10. Clase perezosa
 
