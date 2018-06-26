@@ -44,7 +44,8 @@ La llamada del deber
 
 1.15. Procedimientos del código
 
-2. Introducción al refactoring
+
+2.Introducción al refactoring
 ==============================
 
 2.1 El concepto de la refactorización de código
@@ -60,39 +61,38 @@ La llamada del deber
   - Una vez es mejor que dos.
   - Y Goliat murio.
   
-3. Reglas y principios
+3.Reglas y principios
 ======================
 
-4. Primer Test de desarrollo
+4.Primer Test de desarrollo
 ============================
 
-5. Herramientas de Refactorización
+5.Herramientas de Refactorización
 ==================================
 
-6. Comportamiento estructurado
+6.Comportamiento estructurado
 ==============================
 
-7. Responsabilidades de Clases y cambios
+7.Responsabilidades de Clases y cambios
 ========================================
 
-8. Manejando los datos racionalmente
+8.Manejando los datos racionalmente
 ====================================
 
-9. Ejecuciones condicionales reducidas al mínimo
+9.Ejecuciones condicionales reducidas al mínimo
 ================================================
 
-10. Simplificando las llamadas a métodos
+10.Simplificando las llamadas a métodos
 ========================================
 
-11. Relaciones de generalización simplificadas
+11.Relaciones de generalización simplificadas
 ==============================================
 
-12. Codigo heredado
+12.Codigo heredado
 ===================
 
-13. Test de Regresión
+13.Test de Regresión
 =====================
 
-14. Refactorización a patrones
+14.Refactorización a patrones
 ==============================
-
